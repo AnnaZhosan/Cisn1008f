@@ -1,1 +1,1 @@
-# kottans-frontend.github.io
+# Sample text.github.io
